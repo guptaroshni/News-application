@@ -1,0 +1,67 @@
+#navbar{
+    display:flex;
+    width:100%;
+    gap:80px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+#navbar h1{
+    margin: 0px;
+    margin-left: 40px;
+
+}
+
+#navbar input{
+    border-radius: 16px;
+    width:76%;
+}
+
+#container>div:first-child{
+    background-color:white;
+    padding:20px 50px 0px 30px;
+
+
+}
+
+#container>div:first-child h3{
+    background-color:blue;
+    padding:6px;
+
+
+}
+
+#container>div:first-child h3:hover{
+    cursor:pointer ;
+}
+#container>div:last-child{
+    padding:28px 0px 30px 24px;
+    width: 83%;
+}
+
+.news{
+    display:flex;
+    gap:16px;
+    border:1px solid blue;
+    margin :16px auto;
+
+}
+
+.news img{
+    height:150px;
+    width:200px;
+
+}
+
+#show_news{
+    width:40%;
+    margin:auto;
+    border:1px solid blue;
+    margin-top:70px;
+}
+
+#show_news img{
+    width:100%;
+}
+
+
